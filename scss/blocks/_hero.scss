@@ -1,0 +1,34 @@
+.hero__block{
+  width: 1280px;
+  height: 450px;
+  padding-top: 137px;
+  padding-left: 85px;
+  padding-bottom: 134px;
+  background-image: url(../images/Createplan.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+.hero__content{
+  width: 445px;
+  height: 175px;
+}
+.hero__title{
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+  color: #FEFCF7;
+
+}
+.hero__text{
+  padding-top: 32px;
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+  opacity: 0.8;
+}
