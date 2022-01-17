@@ -32,9 +32,9 @@
   letter-spacing: 0.923077px;
   text-transform: uppercase;
   text-decoration: none;
-  color: #83888F;
+  color: $bg-color-Grey;
 
   &:hover {
-      color: #333D4B;
+      color: $bg-color-DarkGreyBlue;
   }
 }
